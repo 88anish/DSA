@@ -1,4 +1,4 @@
-#Assignment 1
+Assignment 1
 
 1 : Check whether a number is a valid floating point number or not.<br>
 2 : Check whether an email id is valid or not.<br>
